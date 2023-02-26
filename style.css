@@ -192,6 +192,7 @@ li a {
 	height: 71px;
 	width: 100%;
 	background-color: #4e4e4e;
+	position: absolute;
 }
 
 .footer {
@@ -203,23 +204,18 @@ li a {
 	justify-content: space-between;
 }
 .footer-text {
-	font-size: 18px;
-	font-weight: 700;
-}
-
-.footer-text {
 	position: absolute;
 	width: 394px;
 	height: 21px;
-	color: white;
-	font-size: 18px;
-	line-height: 21px;
-	font-family: 'Font Awesome\ 5 free', 'Font Awesome\ 5 brands';
+	font-family: 'Roboto';
 	font-style: normal;
 	font-weight: 700;
+	font-size: 15px;
+	line-height: 21px;
+	color: #ffffff;
 }
 .footer-icons {
-	padding-left: 1200px;
+	padding-left: 900px;
 	font-size: 30px;
 	width: 50px;
 	text-align: center;
