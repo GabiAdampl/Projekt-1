@@ -113,6 +113,7 @@ li a {
 	border-radius: 50%;
 	aspect-ratio: 1;
 	margin-right: 60px;
+
 }
 .bold-text {
 	margin-bottom: 20px;
@@ -140,18 +141,18 @@ li a {
 }
 .offer-h1 {
 	margin-top: 50px;
+	font-size: 36px;
 }
 .offer-h2 {
 	color: white;
 	font-size: 36px;
-	margin-top: 50px;
-	margin-bottom: 82px;
 }
 .offer-grid-container {
 	width: 720px;
 	height: 450px;
 	margin: 50px auto;
 	display: grid;
+	gap: 64px;
 	grid-template-columns: 30% 30% 30%;
 	grid-template-rows: 50% 50%;
 	align-items: center;
@@ -205,16 +206,17 @@ li a {
 }
 .footer-text {
 	position: absolute;
-	width: 394px;
 	height: 21px;
 	font-family: 'Roboto';
 	font-style: normal;
 	font-weight: 700;
-	font-size: 15px;
+	font-size: 18px;
 	line-height: 21px;
 	color: #ffffff;
 }
 .footer-icons {
+	display: flex;
+	gap: 18px;
 	padding-left: 900px;
 	font-size: 30px;
 	width: 50px;
