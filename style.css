@@ -54,7 +54,7 @@ header {
 }
 .header-img {
 	height: calc(100vh - 50px);
-	background-image: url('https://s3-alpha-sig.figma.com/img/035c/47bd/d869216e199c4faf8b78918e652e7719?Expires=1678060800&Signature=hEAxBUHrax3w0eHnyckL3PIw7VGMYlzevSDBMIbbBFnftyBkkMZzmcHkzfMalxzpKvFOfqb9d4PXmw-BBLl~a~IUfPPm3x1LV0DKjC3V5Su0xCk8zZC~cBEamg0VeXim-lllE3k7ULbvi~u0tiHB4B~bkAI9vA8enblblccAbt6Cd1bKk2iEObS1syZDUfOWAf26chE-vsU~56jDQwS4wUrl6h1rOxjDRea795sGILAZlilHAgR3BJknnnXs3BnI5zj5nXnKxi92LokKMHxQmtvDL5Dk26ks3fFNZCCTsSXWZ4lcXr3ISHJ5njkcxAUzmTYmjrROmJEpS2B0vsmO1w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4');
+	background-image: url('Tło\ sekcji.png');
 	background-position: center;
 	background-size: cover;
 	position: relative;
